@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="9" useXmlUI="false">
+    <image name="1.jpg"  />
+    <image name="2.jpg"  />
+    <image name="3.jpg"  />
+    <image name="4.jpg"  />
+    <image name="5.jpg"  />
+    <image name="6.jpg"  />
+    <image name="7.jpg"  />
+    <image name="8.jpg"  />
+    <image name="profile.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+    </theme>
+</resource>

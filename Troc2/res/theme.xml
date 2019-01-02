@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="9" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="align" value="4" />
+        <val key="centerLabel.align" value="4" />
+        <val key="centerLabel.fgColor" value="ff0033" />
+        <val key="centerLabel.transparency" value="255" />
+        <val key="transparency" value="255" />
+    </theme>
+</resource>
